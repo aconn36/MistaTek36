@@ -35,10 +35,32 @@ print(name)
 
 # Question 4
 
-type(10)
-type(9.8)
-type(3.14)
-type(4 - 4j)
-type(["Asabeneh", "Python", "Finland"])
+print(type(10))
+print(type(9.8))
+print(type(3.14))
+print(type(4 - 4j))
+print(type(["Asabeneh", "Python", "Finland"]))
 
 print("Long Live Teckie1!!")
+
+
+# Exercise 3
+
+# 1:
+
+print(type(True))
+print(type(False))
+
+# 2:
+
+port = 22
+ip = "192.168.0.255"
+user = 74.14
+numbers = 74, 57, 67
+boxes = ["abyss", "pbs", "desktop"]
+
+print(type(port))
+print(type(ip))
+print(type(user))
+print(type(numbers))
+print(type(boxes))
