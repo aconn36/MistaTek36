@@ -1,3 +1,3 @@
 # Day to day screenshots
 
-![alt](exercise3.png)
+![alt](img/exercise3.png)
