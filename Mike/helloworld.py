@@ -40,3 +40,5 @@ type(9.8)
 type(3.14)
 type(4 - 4j)
 type(["Asabeneh", "Python", "Finland"])
+
+print("Long Live Teckie1!!")
