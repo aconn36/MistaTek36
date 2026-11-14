@@ -24,7 +24,7 @@ print(type((9.8, 3.14, 2.7)))  # Tuple
 name = "Mike G"
 print(name)
 
-name = "Mcknight"
+name = "Mcknugget"
 print(name)
 
 name = "USA"
